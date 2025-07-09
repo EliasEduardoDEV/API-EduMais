@@ -1,0 +1,17 @@
+[
+  {
+    "nome": "Khan Academy",
+    "link": "https://pt.khanacademy.org",
+    "descricao": "Aulas gratuitas de matemática, ciências, programação e mais."
+  },
+  {
+    "nome": "Coursera (gratuito com opção paga)",
+    "link": "https://www.coursera.org",
+    "descricao": "Cursos de universidades do mundo todo, com opção gratuita."
+  },
+  {
+    "nome": "Fundação Bradesco - Escola Virtual",
+    "link": "https://www.ev.org.br",
+    "descricao": "Plataforma gratuita com cursos em diversas áreas."
+  }
+]
